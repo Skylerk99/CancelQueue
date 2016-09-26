@@ -1,7 +1,3 @@
-@interface Cydia : NSObject
--(void) cancelAndClear:(bool)arg1;
-@end
-
 static BOOL clear = NO;
 
 %hook Cydia
