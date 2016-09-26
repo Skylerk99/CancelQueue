@@ -1,0 +1,10 @@
+Package: com.skylerk99.cq
+Name: CancelQueue
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Cancel button doesn't clear the queue in Cydia. To clear the queue, open the queue manually by clicking the queue button in the navigation bar, when the queue is manually opened the cancel button behaves as it normally would.
+Maintainer: Skyler Kansala
+Author: Skyler Kansala
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 120
